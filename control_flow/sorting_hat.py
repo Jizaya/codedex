@@ -1,7 +1,9 @@
+#starting points for each house
 gryffindor = 0
 ravenclaw = 0
 hufflepuff = 0
 slytherin = 0
+
 #Question 1
 print('Q1) Do you like Dawn or Dusk?')
 print(' 1) Dawn')
@@ -16,6 +18,7 @@ elif answer == 2:
 else:
     print('Wrong input.')
 
+#Question 2
 print('Q2) When I''m dead, I want people to remember me as:')
 print(' 1) The Good')
 print(' 2) The Great')
@@ -33,6 +36,7 @@ elif answer == 4:
 else:
     print('Wrong input.')
 
+#Question 3
 print('Q3) Which kind of instrument most pleases your ear?')
 print(' 1) The violin')
 print(' 2) The trumpet')
